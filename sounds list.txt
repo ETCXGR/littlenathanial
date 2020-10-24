@@ -1,0 +1,14 @@
+Soul: 536584505 0.5
+End: 176944552 0.3
+Entry: 232006136 0.4
+Fall: 773661060 0.5
+Lost: 191006402 0.5, 722357068 0.4
+NathanialsDreaming's Place: 1836915294 0.4, 1062275361 0.2, 209455167 0.8, 278150642 0.6################################# ##### Number: 5: 185054073 2
+NathanialsDreaming's Place Number : 10: 273957509 0.3
+NathanialsDreaming's Place Number : 7: 183689627 0.3
+NathanialsDreaming's Place Number : 8: 305431213 0.5
+NathanialsDreaming's Place Number : 6: 2236496726 1
+NathanialsDreaming's Place Number : 9: 273931574 0.3, 465879991 0.5, 131104992 0.5
+NathanialsDreaming's Place Number : 2: 372183961 0.6
+NathanialsDreaming's Place Number : 1: 187979939 0.6
+NathanialsDreaming's Place Number : 4: 138128227 0.4
